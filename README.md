@@ -8,5 +8,5 @@ The API is written in C# and cut into N layers ( best practices ) in which I did
 it contains the logic ( ordering in asc. , remove courts in specific city etc..) and the WebAPI which is dummy, its role is to deliver data to the interface.
 The database contains procedures and indexing. Here is the backup of the Database all what you have to do is to restore it. SQL instance 2019 if your version is lower than 2019 it will not work
 contact me i can send you a generated script of the database, a script will work.
-make sure to change the connection string to the Database from the WebApi/appsettings.json file.
+make sure to change the connection string to the DataBase from the WebApi/appsettings.json file.
 For more information please feel free to contact me.
