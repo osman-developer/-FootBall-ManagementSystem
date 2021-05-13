@@ -1,5 +1,5 @@
 # -FootBall-ManagementSystem
-Hello, this is a Football Management System written in Angular8, Asp.Net Core WebAPI and SQL server as the database.
+ this is a Football Management System written in Angular8, Asp.Net Core WebAPI and SQL server as the database.
 This application allows you to enter information about courts, reservations and people. 
 It's an easy way to organize the reservations of the courts.
 first of all, when you download the angular application, navigate inside the folder using the CLI and hit npm install ( ofcourse you should have nodejs installed with the npm,
